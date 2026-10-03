@@ -62,4 +62,26 @@ export const certifications = [
   credentialUrl: 'https://www.canva.com/design-school/certification-award/20c480e8-9583-47bc-b684-6bc336272374?referrer=course',
 },
 
+{
+  
+  title: 'Introduction to Natural Language Processing Concepts',
+  issuer: 'Microsoft',
+  date: 'Sep 2026',
+  skills: ['Natural Language Processing', 'AI', 'NLP'],
+  image: 'assets/badge.jpg',
+  file: '',
+  credentialUrl: 'https://learn.microsoft.com/en-gb/users/reesman-5173/',
+},
+
+{
+
+  title: 'AI-Powered Product & UX',
+  issuer: 'Sololearn',
+  date: 'Sep 2026',
+  skills: ['AI', 'Product Design', 'UX Design'],
+  image: '/assets/sololearn.jpg',
+  file: '/assets/sololearncert.pdf',
+  credentialUrl: 'https://www.sololearn.com/en/certificates/CC-4WHWR2HF',
+},
+
 ];
